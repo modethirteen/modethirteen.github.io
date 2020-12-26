@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://modethirteen.com/plan/index.html</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2017/08/15/walmart-labs-women-in-tech-hackathon/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2015/05/31/tear-it-down-build-it-back-up-infrastructure-as-code/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2018/04/07/introduction-to-the-chrome-devtools-protocol/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2017/10/16/misadventures-in-bundling-modules/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2019/06/07/cryptography-101/</loc>
+    
+    <lastmod>2020-12-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2019/10/16/impact-mapping-with-graphviz/</loc>
+    
+    <lastmod>2020-12-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2019/03/10/what-can-apache-events-and-workers-do-for-you/</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2014/11/10/continuous-delivery-without-breaking-everything/</loc>
+    
+    <lastmod>2020-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2014/02/25/automocking-dependencies/</loc>
+    
+    <lastmod>2020-11-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/about/index.html</loc>
+    
+    <lastmod>2020-11-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2020/04/20/interfaces-for-humans-on-an-api-first-platform/</loc>
+    
+    <lastmod>2020-11-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2019/12/23/you-may-not-need-service-discovery/</loc>
+    
+    <lastmod>2020-11-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2018/07/28/the-demoscene/</loc>
+    
+    <lastmod>2019-11-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2016/08/31/kanmf/</loc>
+    
+    <lastmod>2019-11-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2018/10/24/witness-the-c64-mssiah/</loc>
+    
+    <lastmod>2019-09-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2019/01/25/demystifying-authorization-and-authentication-flows/</loc>
+    
+    <lastmod>2019-08-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2015/04/24/fluent-2015/</loc>
+    
+    <lastmod>2019-03-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/2018/10/18/the-state-of-the-amiga-500-in-2018/</loc>
+    
+    <lastmod>2019-02-03</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://modethirteen.com/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Programming/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Testing/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/PHP/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/DevOps/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Product-Management/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/IAM/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Last-Sprint-Today/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Performance/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/JavaScript/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/C-Sharp/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Culture/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Demoscene/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Music/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Commodore/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/Hardware/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://modethirteen.com/tags/AWS/</loc>
+    <lastmod>2020-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>
