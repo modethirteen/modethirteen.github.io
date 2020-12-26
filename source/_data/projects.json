@@ -1,0 +1,32 @@
+[
+    {
+        "name": "FluentCache",
+        "url": "https://github.com/modethirteen/FluentCache",
+        "desc": "A fluent cache builder API for PSR-16 compatible cache components"
+    },
+    {
+       "name": "HyperPlug",
+       "url": "https://github.com/modethirteen/HyperPlug",
+       "desc": "A PHP library for plugging into HTTP sockets with immutability and safety as core principals"
+    },
+    {
+       "name": "MindTouch",
+       "url": "https://mindtouch.com/technology-ecosystem",
+       "desc": "The best self-service support experience in the world that I've helped build as a principal architect and product manager since 2010"
+    },
+    {
+       "name": "miniflex",
+       "url": "https://github.com/modethirteen/miniflex",
+       "desc": "A collection of PHP components to manage cryptographic keys and signatures"
+    },
+    {
+        "name": "TypeEx",
+        "url": "https://github.com/modethirteen/TypeEx",
+        "desc": "A collection of useful (and C# inspired) types and behavior extensions for PHP"
+    },
+    {
+        "name": "XArray",
+        "url": "https://github.com/modethirteen/XArray",
+        "desc": "An awesome way to build and navigate through multi-dimensional PHP data structures"
+    }
+]
