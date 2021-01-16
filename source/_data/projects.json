@@ -1,8 +1,13 @@
 [
     {
-        "name": "FluentCache",
-        "url": "https://github.com/modethirteen/FluentCache",
-        "desc": "A fluent cache builder API for PSR-16 compatible cache components"
+       "name": "AuthForge",
+       "url": "https://github.com/modethirteen/AuthForge",
+       "desc": "A collection of PHP components to integrate industry-standard authentication and authorization"
+    },
+    {
+       "name": "FluentCache",
+       "url": "https://github.com/modethirteen/FluentCache",
+       "desc": "A fluent cache builder API for PSR-16 compatible cache components"
     },
     {
        "name": "HyperPlug",
@@ -13,11 +18,6 @@
        "name": "MindTouch",
        "url": "https://mindtouch.com/technology-ecosystem",
        "desc": "The best self-service support experience in the world that I've helped build as a principal architect and product manager since 2010"
-    },
-    {
-       "name": "miniflex",
-       "url": "https://github.com/modethirteen/miniflex",
-       "desc": "A collection of PHP components to manage cryptographic keys and signatures"
     },
     {
         "name": "TypeEx",
