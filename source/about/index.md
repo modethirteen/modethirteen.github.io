@@ -23,8 +23,12 @@ Today, I enjoy two different sides of technology: implementation _and_ leveragin
 
 At this time, I am...
 
-- Software Architect and Director of Products at [MindTouch](https://mindtouch.com)
+- Principal Technical Product Manager for [AppFolio Property Manager (APM)](https://appfolio.com)
 - [Pragmatic Product Management and Marketing Certified](https://www.youracclaim.com/badges/bf4787f9-9ba8-44a7-b2e2-93865309d89e/public_url)
+
+I was...
+
+- Software Architect and Director of Products at [MindTouch](https://mindtouch.com)
 
 ![Image](/images/about/profile_2.jpg)
 ![Image](/images/about/profile_1.jpg)
