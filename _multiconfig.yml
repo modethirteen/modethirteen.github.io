@@ -86,4 +86,4 @@ deploy:
   repo: 'git@github.com:modethirteen/modethirteen.github.io.git'
   branch: public
   message: 'Site updated: {{ now(''YYYY-MM-DD HH:mm:ss'') }}'
-  token: 8ad9194f836a1acf96a2fe24fc3f00d153de15e5
+  token: 59663ccb5a374e1c5087d63b19714cf57cbb057e
